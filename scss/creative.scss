@@ -6,3 +6,10 @@
 @import "services.scss";
 @import "portfolio.scss";
 @import "bootstrap-overrides.scss";
+
+.resources {
+  font-size: 1.5em;
+  @media screen and (max-width: 400px) {
+    font-size: 1em;
+  }
+}
