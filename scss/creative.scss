@@ -13,3 +13,14 @@
     font-size: 1em;
   }
 }
+
+.cover {
+  position: relative;
+}
+
+#attribution {
+  position: absolute;
+	bottom: 0px;
+  font-size: 0.25em;
+  width:100%;
+}
